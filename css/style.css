@@ -1954,9 +1954,9 @@ TESTIMONIALS
     float: right; }
   .rs-feature-box-1.bg-primary {
     background-color: #2eb8ee;
-    color: #000; }
+    color: #fff; }
     .rs-feature-box-1.bg-primary .title {
-      color: #000; }
+      color: #fff; }
   .rs-feature-box-1.bg-secondary {
     background-color: #000000; }
   .rs-feature-box-1:hover {
