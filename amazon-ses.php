@@ -28,8 +28,8 @@ try {
     // is still in the sandbox, this address must be verified.
 
 
-    $mail->addAddress('acallies15@apu.edu', 'Adrian Callies');
-    //$mail->addAddress('', 'Keith Callies');
+    //$mail->addAddress('acallies15@apu.edu', 'Adrian Callies'); Use for testing purposes
+    $mail->addAddress('callieskeith@gmail.com', 'Keith Callies');
 
     // Replace smtp_username with your Amazon SES SMTP user name.
     $mail->Username = 'AKIA4HJMF54KR6RMZO7G';
