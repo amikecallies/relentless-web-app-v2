@@ -3810,3 +3810,9 @@ Back To Top Section
   justify-content: center;
   align-items: center;
 }
+
+.testimonial-body {
+  background-image: url("../images/relentless\ images/testimonial-background.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
