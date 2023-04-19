@@ -992,6 +992,13 @@ hr.content {
     background-color: #1a1a1a;
     color: #2eb8ee; }
 
+.btn-new-mobile-app {
+  background-color: red;
+  color: #fff; }
+  .btn-primary:hover {
+    background-color: red;
+    color: #fff; }
+
 .btn-secondary {
   background-color: #000000;
   color: #ffffff; }
